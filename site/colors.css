@@ -1,4 +1,3 @@
-colors.css
 *{
   box-sizing: border-box;
   margin:0;
@@ -27,7 +26,7 @@ body{
 .item{
   position: relative;
   top: 0;
-  background-color:#999999;
+  background-color:#b3b3b3;
   margin: 15px;
   padding: 25px;
   border: 3px solid #000;
@@ -50,15 +49,15 @@ body{
 }
 
 #title-one {
-  background-color: #D59898;
+  background-color: #33a1f5;
 } 
 
 #title-two{
-  background-color: #C14543;
+  background-color: #c28100;
 }
 
 #title-three{
-  background-color: #E5D198;
+  background-color: #50e685;
 }
 
 /* Simple Responsive Framework. */
